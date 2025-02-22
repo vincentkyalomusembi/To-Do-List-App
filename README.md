@@ -23,8 +23,7 @@ Frontend: HTML, CSS, JavaScript
 
 Clone the repository:
 
-git clone https://github.com/your-username/todo-list-app.git
-
+git clone (https://github.com/vincentkyalomusembi/To-Do-List-App.git)
 Navigate to the project folder:
 
 cd To-Do list-app
